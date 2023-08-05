@@ -1,0 +1,90 @@
+{
+    "Company": {
+        "Acer": "0",
+        "Apple": "1",
+        "Asus": "2",
+        "Chuwi": "3",
+        "Dell": "4",
+        "Fujitsu": "5",
+        "Google": "6",
+        "HP": "7",
+        "Huawei": "8",
+        "LG": "9",
+        "Lenovo": "10",
+        "MSI": "11",
+        "Mediacom": "12",
+        "Microsoft": "13",
+        "Razer": "14",
+        "Samsung": "15",
+        "Toshiba": "16",
+        "Vero": "17",
+        "Xiaomi": "18"
+    },
+    "TypeName": {
+        "2 in 1 Convertible": "0",
+        "Gaming": "1",
+        "Netbook": "2",
+        "Notebook": "3",
+        "Ultrabook": "4",
+        "Workstation": "5"
+    },
+    "Cpu": {
+        "AMD": "0",
+        "Intel Core i3": "1",
+        "Intel Core i5": "2",
+        "Intel Core i7": "3",
+        "Other Intel": "4"
+    },
+    "Gpu": {
+        "AMD": "0",
+        "Intel": "1",
+        "Nvidia": "2"
+    },
+    "OpSys": {
+        "Android": "0",
+        "Chrome OS": "1",
+        "Linux": "2",
+        "Mac OS X": "3",
+        "No OS": "4",
+        "Windows 10": "5",
+        "Windows 10 S": "6",
+        "Windows 7": "7",
+        "macOS": "8"
+    },
+    "Weight": {
+        "Heavy": "0",
+        "Light": "1",
+        "Medium": "2"
+    },
+    "ScreenType": {
+        "IPS Panel": "0",
+        "IPS Panel Retina": "1",
+        "None": "2"
+    },
+    "Resolution": {
+        "1366x768": "0",
+        "1440x900": "1",
+        "1600x900": "2",
+        "1920x1080": "3",
+        "1920x1200": "4",
+        "2160x1440": "5",
+        "2256x1504": "6",
+        "2304x1440": "7",
+        "2400x1600": "8",
+        "2560x1440": "9",
+        "2560x1600": "10",
+        "2736x1824": "11",
+        "2880x1800": "12",
+        "3200x1800": "13",
+        "3840x2160": "14"
+    },
+    "MemoryType": {
+        "Flash Storage": "0",
+        "Flash Storage and HDD": "1",
+        "HDD": "2",
+        "Hybrid": "3",
+        "SSD": "4",
+        "SSD and HDD": "5",
+        "SSD and Hybrid": "6"
+    }
+}
